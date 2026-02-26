@@ -45,9 +45,4 @@ This repository includes:
 ## Repository Structure
 ```
 HISP_DOCs/
-├── docs/               # System documentation & reports
-├── setup/              # Environment and ROS setup
-├── code/               # Test scripts and experiments
-├── troubleshooting/    # Known issues & solutions
-└── assets/             # Images, diagrams, references
-```
+
