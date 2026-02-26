@@ -1,70 +1,53 @@
-# HISP_DOCs
+# HISP_DOCs — MentorPi Robot System: Exploration & Documentation Overview
 
-MentorPi Robot System Exploration and Documentation
-
-## Project Overview
-
-This repository documents the **exploration, evaluation, understanding, and operational development** of the MentorPi robotic platform. The work focuses on gaining a complete technical understanding of the robot’s hardware and software ecosystem, including ROS 2 integration, sensors, networking infrastructure, and system control capabilities.
-
-The goal is to create a **clear, reproducible reference** for future research, experimentation, and development involving the robotic system.
+This repository captures the technical exploration, evaluation, and understanding of the MentorPi robotic platform. It provides a clear reference for the robot's hardware, software environment, ROS 2 integration, and system-level behavior.
 
 ---
 
-## Objective
+## Objectives
 
-The primary objectives of this project are:
-
-- Develop a complete understanding of the robot system architecture.
-- Document hardware components including LiDAR, cameras, battery system, motors, and onboard sensors.
-- Analyze communication between server, client, Docker containers, ROS 2 environment, and Raspberry Pi.
-- Identify system limitations or hardware/software issues (example: front axle/wheel malfunction).
-- Enable reliable experimentation and future autonomous robotics research.
-
-This repository serves as both a **technical record of exploration** and a **foundation for future research work**.
+- Understand full system architecture
+- Document sensors, hardware, and components
+- Analyze communication between server, client, Docker, ROS 2, and Raspberry Pi
+- Diagnose system issues (e.g., wheel/axle failures)
+- Build a foundation for future robotics research and experimentation
 
 ---
 
 ## Authors
 
-- Selase Doku  
-- Ali Mheidly  
-
-### Principal Investigator (PI)
-
-- Prof. Xiao Zhang
+- **Selase Doku**
+- **Ali Mheidly**
+- **PI:** Prof. Xiao Zhang
 
 ---
 
-## Weekly Progress Presentations
+## Weekly Reports
 
-Weekly progress presentations and reports can be accessed at:
-
-https://drive.google.com/drive/folders/1WDV2gzwt1jBjaSEnO-wJ-PeILImYkUhO
-
-(Access granted to authorized team members.)
+Progress presentations are available here (access restricted):  
+[Google Drive – Weekly Reports](https://drive.google.com/drive/folders/1WDV2gzwt1jBjaSEnO-wJ-PeILImYkUhO)
 
 ---
 
-## What To Expect In This Repository
+## Contents
 
-This repository contains documentation, experiments, troubleshooting records, and system setup instructions related to the robot platform.
+This repository includes:
 
-Major contents include:
-
-- System architecture explanation
-- Hardware and sensor evaluation
-- ROS 2 workspace exploration
-- Docker and VNC operational setup
-- Weekly progress tracking
-- Problem diagnosis and solutions
-- Experimental testing scripts
+- System architecture notes
+- Hardware & sensor evaluations
+- ROS 2 environment exploration
+- Docker/VNC workflows
+- Troubleshooting logs
+- Experimental scripts
 
 ---
 
 ## Repository Structure
-
-docs/ → System documentation and weekly reports
-setup/ → Environment and ROS setup instructions
-code/ → Testing scripts and experiments
-troubleshooting/ → Known problems and solutions
-assets/ → Images, diagrams, and references
+```
+HISP_DOCs/
+├── docs/               # System documentation & reports
+├── setup/              # Environment and ROS setup
+├── code/               # Test scripts and experiments
+├── troubleshooting/    # Known issues & solutions
+└── assets/             # Images, diagrams, references
+```
