@@ -62,3 +62,9 @@ Major contents include:
 ---
 
 ## Repository Structure
+
+docs/ → System documentation and weekly reports
+setup/ → Environment and ROS setup instructions
+code/ → Testing scripts and experiments
+troubleshooting/ → Known problems and solutions
+assets/ → Images, diagrams, and references
