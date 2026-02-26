@@ -1,4 +1,6 @@
-# HISP_DOCs# MentorPi Robot System Exploration and Documentation
+# HISP_DOCs
+
+MentorPi Robot System Exploration and Documentation
 
 ## Project Overview
 
