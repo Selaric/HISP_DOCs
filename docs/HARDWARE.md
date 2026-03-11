@@ -1,7 +1,7 @@
 # MentorPi A1 — Hardware Documentation
 **Platform:** MentorPi A1 (Ackermann Steering)  
 **ROS2 Distribution:** Humble  
-**Researcher:** [Your Name]  
+**Researcher:** Selase Doku
 **PI:** Xiao Zhang  
 **Last Updated:** March 2026
 
