@@ -1,6 +1,6 @@
 # Foxglove + SSH Remote Visualization Setup
 **TAI Lab | University of Michigan-Dearborn**
-**Last Updated:** April 9, 2026 | **Author:** Selase
+**Last Updated:** April 9, 2026 | **Author:** Selase, Mark 
 
 ---
 
