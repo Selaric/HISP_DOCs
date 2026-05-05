@@ -27,21 +27,20 @@ Develop a low-cost, high-precision indoor cross-floor localization system using 
 - **Container:** Docker (`adb8`), image: `mentorpi`
 - **IP:** `192.168.0.112`
 - **Sensors:** LD19 LiDAR, Angstrong HP60C depth camera, IWR6843AOP mmWave radar, IMU
-- **Status:** Software stack complete. Pending RCC board replacement for steering servo.
+
 
 ### TurboPi (Secondary Testbed)
 - **Chassis:** Hiwonder TurboPi (Mecanum wheels)
 - **Compute:** Raspberry Pi 5
 - **Container:** Docker (`TurboPi`), image: `mentorpi`
 - **IP:** `192.168.0.102`
-- **Sensors:** USB camera, ultrasonic sonar, LD19 LiDAR (pending purchase), IWR6843AOP mmWave radar
-- **Status:** Camera, sonar, and LiDAR driver configured. mmWave and SLAM pending.
+- **Sensors:** USB camera, ultrasonic sonar, LD19 LiDAR, IWR6843AOP mmWave radar
+
 
 ### Galaxy RVR Shield (Exploratory)
 - **Chassis:** Arduino-based differential drive
 - **Compute:** Arduino Uno + shield (no Raspberry Pi)
 - **Sensors:** ESP camera
-- **Status:** Exploratory — capabilities under investigation.
 
 ---
 
@@ -184,19 +183,6 @@ map → odom → base_footprint → base_link → lidar_frame
 
 ---
 
-## Pending Items
-
-| Item | Platform | Status |
-|---|---|---|
-| RCC board replacement | MentorPi | ❌ Need to order |
-| Second LD19 LiDAR | TurboPi | ❌ Need to purchase (~$60-80) |
-| mmWave driver setup | TurboPi | ❌ Pending |
-| SLAM setup | TurboPi | ❌ Pending |
-| TF tree | TurboPi | ❌ Pending |
-| Parking lot experiment | MentorPi | ❌ Pending servo fix |
-| Paper writing | Both | ❌ After experiments |
-
----
 
 ## Documentation
 
