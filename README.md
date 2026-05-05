@@ -16,7 +16,6 @@ This repository documents the hardware, software, and research setup for the HIS
 
 Develop a low-cost, high-precision indoor cross-floor localization system using mmWave radar fused with LiDAR and camera data on edge devices. The system targets real-world deployment in multi-story indoor environments such as parking garages.
 
-**Target Publication:** EAI SmartSP — November 2026
 
 ---
 
